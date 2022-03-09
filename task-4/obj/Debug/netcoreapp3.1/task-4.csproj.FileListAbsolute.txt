@@ -1,0 +1,14 @@
+D:\Programlama\CodeAcamedy\task-4\task-4\obj\Debug\netcoreapp3.1\task-4.csproj.AssemblyReference.cache
+D:\Programlama\CodeAcamedy\task-4\task-4\obj\Debug\netcoreapp3.1\task-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\CodeAcamedy\task-4\task-4\obj\Debug\netcoreapp3.1\task-4.AssemblyInfoInputs.cache
+D:\Programlama\CodeAcamedy\task-4\task-4\obj\Debug\netcoreapp3.1\task-4.AssemblyInfo.cs
+D:\Programlama\CodeAcamedy\task-4\task-4\obj\Debug\netcoreapp3.1\task-4.csproj.CoreCompileInputs.cache
+D:\Programlama\CodeAcamedy\task-4\task-4\bin\Debug\netcoreapp3.1\task-4.exe
+D:\Programlama\CodeAcamedy\task-4\task-4\bin\Debug\netcoreapp3.1\task-4.deps.json
+D:\Programlama\CodeAcamedy\task-4\task-4\bin\Debug\netcoreapp3.1\task-4.runtimeconfig.json
+D:\Programlama\CodeAcamedy\task-4\task-4\bin\Debug\netcoreapp3.1\task-4.runtimeconfig.dev.json
+D:\Programlama\CodeAcamedy\task-4\task-4\bin\Debug\netcoreapp3.1\task-4.dll
+D:\Programlama\CodeAcamedy\task-4\task-4\bin\Debug\netcoreapp3.1\task-4.pdb
+D:\Programlama\CodeAcamedy\task-4\task-4\obj\Debug\netcoreapp3.1\task-4.dll
+D:\Programlama\CodeAcamedy\task-4\task-4\obj\Debug\netcoreapp3.1\task-4.pdb
+D:\Programlama\CodeAcamedy\task-4\task-4\obj\Debug\netcoreapp3.1\task-4.genruntimeconfig.cache
